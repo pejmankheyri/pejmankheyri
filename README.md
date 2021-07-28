@@ -8,4 +8,10 @@
 pejmankheyri/pejmankheyri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmankheyri&theme=darcula&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmankheyri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <a href="https://stackoverflow.com/users/2037129/pejman-kheyri"><img src="https://stackoverflow.com/users/flair/2037129.png?theme=dark" width="208" height="58" alt="profile for Pejman Kheyri at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Pejman Kheyri at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>

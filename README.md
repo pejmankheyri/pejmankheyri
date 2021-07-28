@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Github Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmankheyri&show_icons=true&theme=darcula&line_height=20)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmankheyri&theme=darcula&layout=compact&card_width=417)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmankheyri&show_icons=true&theme=darcula&line_height=20)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmankheyri&theme=darcula&layout=compact&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 ## StackOverflow Statistics
 <a href="https://stackexchange.com/users/2321518"><img src="https://stackexchange.com/users/flair/2321518.png?theme=dark" width="208" height="58" alt="profile for Pejman Kheyri on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Pejman Kheyri on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>

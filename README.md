@@ -2,16 +2,16 @@
 I'm a Developer guy with a passion for web applications that makes people's life easier as possible, with 9 years of experience as a web developer. Specialized in designing and implementing Web Apps with the newest technologies, high security, and search engine optimization. Proficient in PHP/MySQL, frameworks like Laravel, Codeigniter, and content management systems like WordPress, WHMCS, OpenCart, Joomla, Magento, and WooCommerce also in the frontend working with Vue.js and Nuxt.js.
 
 
-<!---
-pejmankheyri/pejmankheyri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
 ## Github Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmankheyri&show_icons=true&theme=darcula&line_height=20)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmankheyri&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pejmankheyri&theme=darcula)](https://git.io/streak-stats)
+![](https://activity-graph.herokuapp.com/graph?username=pejmankheyri&theme=react-dark&area=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmankheyri&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pejmankheyri&theme=darcula)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmankheyri&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=pejmankheyri&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+
+
+
 
 
 ## StackOverflow Statistics

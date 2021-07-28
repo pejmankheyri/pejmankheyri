@@ -11,10 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 ## Github Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmankheyri&show_icons=true&theme=darcula&line_height=20)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmankheyri&theme=darcula&layout=compact&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmankheyri&show_icons=true&theme=darcula&line_height=20)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmankheyri&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pejmankheyri&theme=darcula)](https://git.io/streak-stats)
+
 
 ## StackOverflow Statistics
-<a href="https://stackexchange.com/users/2321518"><img src="https://stackexchange.com/users/flair/2321518.png?theme=dark" width="208" height="58" alt="profile for Pejman Kheyri on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Pejman Kheyri on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+[![AryaStackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=2037129&theme=dark)](https://stackoverflow.com/users/2037129/pejman-kheyri)
 
 ## Technologies
 <img src="https://img.shields.io/static/v1?label=PHP&color=777BB4&style=for-the-badge&logo=php" />

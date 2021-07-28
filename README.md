@@ -4,11 +4,9 @@ I'm a Developer guy with a passion for web applications that makes people's life
 
 ## Github Statistics
 
-![](https://activity-graph.herokuapp.com/graph?username=pejmankheyri&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=pejmankheyri&theme=github&area=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmankheyri&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pejmankheyri&theme=darcula)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmankheyri&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-profile-trophy.vercel.app/?username=pejmankheyri&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+<img src="https://github-profile-trophy.vercel.app/?username=pejmankheyri&theme=gruvbox&row=2&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmankheyri&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

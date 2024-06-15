@@ -1,5 +1,6 @@
 ## Hello World! This is @PejmanKheyri 
-I'm a Developer guy with a passion for web applications that makes people's life easier as possible, with 9 years of experience as a web developer. Specialized in designing and implementing Web Apps with the newest technologies, high security, and search engine optimization. Proficient in PHP/MySQL, frameworks like Laravel, Codeigniter, and content management systems like WordPress, WHMCS, OpenCart, Joomla, Magento, and WooCommerce also in the frontend working with Vue.js and Nuxt.js.
+With over a decade of experience as a full-stack web developer, I excel in creating robust, user-centric applications from concept to deployment. My expertise in both front-end and back-end technologies, combined with a passion for innovation and continuous learning, ensures I consistently deliver efficient and scalable solutions that exceed client expectations.
+
 
  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=2RYLRF4UY2WNE)
 

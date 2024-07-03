@@ -1,5 +1,5 @@
 ## Hello World! This is @PejmanKheyri 
-With over a decade of experience as a full-stack web developer, I excel in creating robust, user-centric applications from concept to deployment. My expertise in both front-end and back-end technologies, combined with a passion for innovation and continuous learning, ensures I consistently deliver efficient and scalable solutions that exceed client expectations.
+With over 10 years of experience as a Full Stack web developer, I specialize in both Frontend and Backend development. My expertise includes Laravel, PHP, MySQL, Vue.js, Nuxt.js, JavaScript, RESTful APIs, and Tailwind CSS. I deliver robust web applications with seamless user experiences and secure, scalable backend systems. I am eager to bring my skills to a dynamic development team.
 
 
  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=2RYLRF4UY2WNE)

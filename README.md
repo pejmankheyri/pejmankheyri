@@ -1,12 +1,12 @@
 ## Hello World! This is @PejmanZeynalkheyri 
 
 ```
-    ____         _                          _____                          ____   __                    _ 
-   / __ \___    (_)___ ___  ____ _____     /__  /  ___  __  ______  ____ _/ / /__/ /_  ___  __  _______(_)
-  / /_/ / _ \  / / __ `__ \/ __ `/ __ \      / /  / _ \/ / / / __ \/ __ `/ / //_/ __ \/ _ \/ / / / ___/ / 
- / ____/  __/ / / / / / / / /_/ / / / /     / /__/  __/ /_/ / / / / /_/ / / ,< / / / /  __/ /_/ / /  / /  
-/_/    \___/_/ /_/ /_/ /_/\__,_/_/ /_/     /____/\___/\__, /_/ /_/\__,_/_/_/|_/_/ /_/\___/\__, /_/  /_/   
-          /___/                                      /____/                              /____/                             
+    ____         _                          _____   ________  ___   _____    __    __ __ __  __________  ______  ____
+   / __ \___    (_)___ ___  ____ _____     /__  /  / ____/\ \/ / | / /   |  / /   / //_// / / / ____/\ \/ / __ \/  _/
+  / /_/ / _ \  / / __ `__ \/ __ `/ __ \      / /  / __/    \  /  |/ / /| | / /   / ,<  / /_/ / __/    \  / /_/ // /  
+ / ____/  __/ / / / / / / / /_/ / / / /     / /__/ /___    / / /|  / ___ |/ /___/ /| |/ __  / /___    / / _, _// /   
+/_/    \___/_/ /_/ /_/ /_/\__,_/_/ /_/     /____/_____/   /_/_/ |_/_/  |_/_____/_/ |_/_/ /_/_____/   /_/_/ |_/___/   
+          /___/                                                                                                                                
 ```
 As a professional full-stack web developer with over 10 years of experience, I excel in both frontend and backend development. My expertise spans Laravel, PHP, MySQL, Vue.js, Nuxt.js, JavaScript, RESTful APIs, and Tailwind CSS. I have a proven track record of building robust web applications and delivering high-quality code. My skills in frontend technologies ensure seamless user experiences, while my backend proficiency guarantees secure, scalable, and efficient systems. I am passionate about leveraging my extensive experience to drive innovative solutions and contribute to the success of dynamic development teams.
 

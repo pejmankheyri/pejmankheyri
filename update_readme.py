@@ -14,9 +14,7 @@ def update_readme():
         existing_content = readme_file.read()
 
     new_content = f"""
-# My GitHub Profile
-
-I have been on GitHub for {years} years and {months} months!
+## Hello World! This is @Pejman 👋 I have been on GitHub for {years} years and {months} months!
 
 {existing_content}
     """

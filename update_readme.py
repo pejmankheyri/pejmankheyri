@@ -1,4 +1,5 @@
 import datetime
+import os
 
 def calculate_profile_age(creation_date):
     creation_date = datetime.datetime.strptime(creation_date, "%Y-%m-%d")
@@ -17,16 +18,27 @@ def update_readme():
     
     new_content = []
     in_github_stats = False
+    found_age_info = False
     for line in lines:
         if line.strip() == "## GitHub Statistics":
             in_github_stats = True
-        if in_github_stats and line.strip() == "":
-            in_github_stats = False
+        if in_github_stats and "I have been on GitHub for" in line:
+            found_age_info = True
             new_content.append(age_info)
-        new_content.append(line)
+        else:
+            new_content.append(line)
+    
+    if not found_age_info and in_github_stats:
+        new_content.insert(lines.index("## GitHub Statistics") + 1, age_info)
     
     with open("README.md", "w") as readme_file:
         readme_file.writelines(new_content)
 
+    return found_age_info
+
 if __name__ == "__main__":
-    update_readme()
+    modified = update_readme()
+    if modified:
+        os.system('git add README.md')
+        os.system('git commit -m "Update profile age in GitHub Statistics"')
+        os.system('git push')

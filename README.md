@@ -21,7 +21,7 @@ As a professional full-stack web developer with over 10 years of experience, I e
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmankheyri&theme=radical&layout=compact&card_width=1020)](https://github.com/pejmankheyri/github-readme-stats)
 
 
-![pejmankheyri's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmankheyri\&show_icons=true\&theme=radical&hide=issues&line_height=24&card_width=1020)
+![pejmankheyri's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmankheyri\&show_icons=true\&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=24&card_width=1020)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pejmankheyri&theme=onedark&rows=2&column=5&margin-w=120&margin-h=40)](https://github.com/ryo-ma/github-profile-trophy)

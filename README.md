@@ -1,6 +1,3 @@
-
-## Hello World! This is @Pejman 👋 I have been on GitHub for 11 years and 6 months!
-
 ```
   ____       _                         ____________   ___   _    _    _     _  ___   _ _______   ______  ___
  |  _ \ ___ (_)_ __ ___   __ _ _ __   |__  / ____\ \ / / \ | |  / \  | |   | |/ / | | | ____\ \ / /  _ \|_ _|
@@ -46,9 +43,3 @@ As a professional full-stack web developer with over 10 years of experience, I e
 ## Social Media
 
 <a href="https://www.linkedin.com/in/pejmankheyri/"><img align="left" alt="Pejman's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com/users/2037129/pejman-kheyri"><img align="left" alt="Pejman's Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a><a href="mailto:pejmankheyri@gmail.com"><img align="left" alt="Pejman's Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a><a href="https://twitter.com/pejmankheyri"><img align="left" alt="Pejman Kheyri - Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" /></a><a href="https://www.instagram.com/pejmankheyri/"><img align="left" alt="Pejman's Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a>
-<<<<<<< HEAD
-=======
-
-> > > > > > > c346ad79c5c786b114a1bd4ed501e294a8528cfb
-
-    

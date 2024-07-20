@@ -18,9 +18,8 @@ As a professional full-stack web developer with over 10 years of experience, I e
 [![GitHub Streak](https://streak-stats.demolab.com?user=pejmankheyri&theme=dracula&mode=weekly&card_width=1020)](https://git.io/streak-stats)
 
 
-![](https://activity-graph.herokuapp.com/graph?username=pejmankheyri&theme=github&area=true)[![Pejman's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmankheyri&show_icons=true&theme=darcula&line_height=20)](https://github.com/pejmankheyri/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmankheyri&theme=radical&layout=compact&card_width=506)](https://github.com/pejmankheyri/github-readme-stats)![pejmankheyri's GitHub stats](https://github-readme-stats.vercel.app/api?username=pejmankheyri\&show_icons=true\&theme=radical&hide=issues&line_height=24&card_width=506)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pejmankheyri&theme=darcula&layout=compact)](https://github.com/pejmankheyri/github-readme-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pejmankheyri&theme=onedark&rows=2&column=5&margin-w=120&margin-h=40)](https://github.com/ryo-ma/github-profile-trophy)

@@ -19,9 +19,6 @@ jobs:
         with:
           python-version: "3.x"
 
-      #   - name: Install dependencies
-      #     run: pip install -r requirements.txt
-
       - name: Run script
         run: python update_readme.py
 
@@ -30,7 +27,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Update profile age"
+          git commit -m "Update profile age in GitHub Statistics"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

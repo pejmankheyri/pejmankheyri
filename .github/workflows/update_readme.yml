@@ -1,8 +1,8 @@
 name: Update README
 
 on:
-  #   schedule:
-  #     - cron: "0 0 * * *" # Runs every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
   push:
     branches:
       - main
@@ -19,8 +19,14 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Show README content before update
+        run: cat README.md
+
       - name: Run script
         run: python update_readme.py
+
+      - name: Show README content after update
+        run: cat README.md
 
       - name: Commit changes
         run: |

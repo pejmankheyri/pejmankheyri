@@ -36,5 +36,9 @@ def update_readme():
     with open("README.md", "w") as readme_file:
         readme_file.writelines(new_content)
 
+    # Output the new content for debugging purposes
+    print("New README content:")
+    print("".join(new_content))
+
 if __name__ == "__main__":
     update_readme()

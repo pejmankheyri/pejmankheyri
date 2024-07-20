@@ -22,7 +22,7 @@ jobs:
       - name: Run script
         run: python update_readme.py
 
-      - name: Check for changes
+      - name: Commit changes
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git config --local user.email "action@github.com"

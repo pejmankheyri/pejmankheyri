@@ -19,26 +19,15 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Show README content before update
-        run: cat README.md
-
       - name: Run script
         run: python update_readme.py
-
-      - name: Show README content after update
-        run: cat README.md
 
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          if [ -n "$(git status --porcelain)" ]; 
-          then
-            git add README.md
-            git commit -m "Update profile age in GitHub Statistics"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          git add README.md
+          git commit -m "Update profile age in GitHub Statistics"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

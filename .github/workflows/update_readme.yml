@@ -26,12 +26,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          if [ -n "$(git status --porcelain)" ]
-          then
-            git add README.md
-            git commit -m "Update profile age in GitHub Statistics"
-            git push
-        #   else
-        #     echo "No changes to commit"
+          git add README.md
+          git commit -m "Update profile age in GitHub Statistics"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -31,7 +31,7 @@ jobs:
             git add README.md
             git commit -m "Update profile age in GitHub Statistics"
             git push
-          else
-            echo "No changes to commit"
+        #   else
+        #     echo "No changes to commit"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

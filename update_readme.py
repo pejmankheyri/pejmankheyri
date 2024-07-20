@@ -7,7 +7,7 @@ def calculate_profile_age(creation_date):
     return age.days // 365, (age.days % 365) // 30
 
 def update_readme():
-    creation_date = "2013-01-21"  # Replace with your GitHub profile creation date
+    creation_date = "2013-01-21"  
     years, months = calculate_profile_age(creation_date)
     
     age_info = f"I have been on GitHub for {years} years and {months} months!\n\n"

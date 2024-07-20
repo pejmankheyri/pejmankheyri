@@ -21,11 +21,13 @@ def update_readme():
     for line in lines:
         if line.strip() == "## GitHub Statistics":
             in_github_stats = True
+            new_content.append(line)
+            new_content.append(age_info)
+            continue
         if in_github_stats and "I have been on GitHub for" in line:
             found_age_info = True
-            new_content.append(age_info)
-        else:
-            new_content.append(line)
+            continue
+        new_content.append(line)
     
     if not found_age_info and in_github_stats:
         index = lines.index("## GitHub Statistics\n")

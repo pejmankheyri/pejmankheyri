@@ -8,7 +8,7 @@
           |__/
 ```
 
-As a professional full-stack web developer with over 10 years of experience, I excel in both frontend and backend development. My expertise spans Laravel, PHP, MySQL, Vue.js, Nuxt.js, JavaScript, RESTful APIs, and Tailwind CSS. I have a proven track record of building robust web applications and delivering high-quality code. My skills in frontend technologies ensure seamless user experiences, while my backend proficiency guarantees secure, scalable, and efficient systems.
+As a professional full-stack web developer with over 10 years of experience, I excel in both frontend and backend development. My expertise spans Laravel, PHP, MySQL, Vue.js, Nuxt.js, JavaScript, Python, RESTful APIs, and Tailwind CSS. I have a proven track record of building robust web applications and delivering high-quality code. My skills in frontend technologies ensure seamless user experiences, while my backend proficiency guarantees secure, scalable, and efficient systems.
 
 [![Buy a coffee](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=2RYLRF4UY2WNE)
 

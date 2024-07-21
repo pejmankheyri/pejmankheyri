@@ -1,4 +1,5 @@
 import datetime
+import re
 
 def calculate_profile_age(creation_date):
     creation_date = datetime.datetime.strptime(creation_date, "%Y-%m-%d")
@@ -13,14 +14,17 @@ def update_readme():
     with open("README.md", "r") as readme_file:
         existing_content = readme_file.read()
 
-    new_content = f"""
-## Hello World! This is @Pejman 👋 I have been on GitHub for {years} years and {months} months!
+    new_header = f"## Hello World! This is @Pejman 👋 I have been on GitHub for {years} years and {months} months!\n"
 
-{existing_content}
-    """
+    # Regex to find the existing header and replace it
+    updated_content = re.sub(r"## Hello World! This is @Pejman 👋 I have been on GitHub for \d+ years and \d+ months!\n", new_header, existing_content)
+
+    # If the header was not found and replaced, prepend it to the content
+    if updated_content == existing_content:
+        updated_content = new_header + existing_content
     
     with open("README.md", "w") as readme_file:
-        readme_file.write(new_content)
+        readme_file.write(updated_content)
 
 if __name__ == "__main__":
     update_readme()

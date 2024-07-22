@@ -16,12 +16,16 @@ def update_readme():
 
     new_header = f"## Hello World! This is @Pejman 👋 I have been on GitHub for {years} years and {months} months!\n"
 
+    # remove the first line
+    existing_content = existing_content[1:]
+    updated_content = new_header + existing_content
+
     # Regex to find the existing header and replace it
-    updated_content = re.sub(r"## Hello World! This is @Pejman 👋 I have been on GitHub for \d+ years and \d+ months!\n", new_header, existing_content)
+    # updated_content = re.sub(r"## Hello World! This is @Pejman 👋 I have been on GitHub for \d+ years and \d+ months!\n", new_header, existing_content)
 
     # If the header was not found and replaced, prepend it to the content
-    if updated_content == existing_content:
-        updated_content = new_header + existing_content
+    # if updated_content == existing_content:
+    #     updated_content = new_header + existing_content
     
     with open("README.md", "w") as readme_file:
         readme_file.write(updated_content)

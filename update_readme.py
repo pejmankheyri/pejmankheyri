@@ -13,8 +13,8 @@ def update_readme():
     
     with open("README.md", "r") as readme_file:
         existing_content = readme_file.read()
+        first_line = readme_file.readline()
 
-    first_line = existing_content.readline()    
 
     print(first_line)
 

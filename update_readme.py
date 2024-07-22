@@ -11,18 +11,27 @@ def update_readme():
     creation_date = "2013-01-21"  # Replace with your GitHub profile creation date
     years, months = calculate_profile_age(creation_date)
     
-    with open("README.md", "r") as readme_file:
-        existing_content = readme_file.read()
-        first_line = readme_file.readline()
+    # with open("README.md", "r") as readme_file:
+    #     existing_content = readme_file.read()
+
+    with open("README.md") as f:
+        lines = f.readlines()
+
+    lines # ['This is the first line.\n', 'This is the second line.\n']
+
+    lines[0] = f"## Hello World! This is @Pejman 👋 I have been on GitHub for {years} years and {months} months!\n"
+
+    lines # ["This is the line that's replaced.\n", 'This is the second line.\n']
+
+    with open("README.md", "w") as f:
+        f.writelines(lines)
 
 
-    print(first_line)
-
-    new_header = f"## Hello World! This is @Pejman 👋 I have been on GitHub for {years} years and {months} months!\n"
+    # new_header = f"## Hello World! This is @Pejman 👋 I have been on GitHub for {years} years and {months} months!\n"
 
     # replace the first line
 
-    updated_content = existing_content.replace(first_line, new_header)
+    # updated_content = existing_content.replace(first_line, new_header)
 
     # updated_content = new_header + existing_content
 
@@ -33,8 +42,8 @@ def update_readme():
     # if updated_content == existing_content:
     #     updated_content = new_header + existing_content
     
-    with open("README.md", "w") as readme_file:
-        readme_file.write(updated_content)
+    # with open("README.md", "w") as readme_file:
+    #     readme_file.write(updated_content)
 
 if __name__ == "__main__":
     update_readme()

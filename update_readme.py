@@ -18,6 +18,7 @@ def update_readme():
 
     # remove the first line
     existing_content = existing_content[1:]
+    print(existing_content)
     updated_content = new_header + existing_content
 
     # Regex to find the existing header and replace it

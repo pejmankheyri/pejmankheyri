@@ -17,14 +17,13 @@ def update_readme():
     with open("README.md") as f:
         lines = f.readlines()
 
-    lines # ['This is the first line.\n', 'This is the second line.\n']
+    new_header = f"## Hello World! This is @Pejman 👋 I have been on GitHub for {years} years and {months} months!\n"
 
-    lines[0] = f"## Hello World! This is @Pejman 👋 I have been on GitHub for {years} years and {months} months!\n"
-
-    lines # ["This is the line that's replaced.\n", 'This is the second line.\n']
-
-    with open("README.md", "w") as f:
-        f.writelines(lines)
+    print(lines[0])
+    if lines[0] != new_header:
+        lines[0] = new_header
+        with open("README.md", "w") as f:
+            f.writelines(lines)
 
 
     # new_header = f"## Hello World! This is @Pejman 👋 I have been on GitHub for {years} years and {months} months!\n"

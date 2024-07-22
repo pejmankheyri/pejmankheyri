@@ -1,6 +1,3 @@
-## Hello World! This is @Pejman 👋 I have been on GitHub for 11 years and 6 months!
-## Hello World! This is @Pejman 👋 I have been on GitHub for 11 years and 6 months!
-## Hello World! This is @Pejman 👋 I have been on GitHub for 11 years and 6 months!
 ```
   ____       _                         ____________   ___   _    _    _     _  ___   _ _______   ______  ___
  |  _ \ ___ (_)_ __ ___   __ _ _ __   |__  / ____\ \ / / \ | |  / \  | |   | |/ / | | | ____\ \ / /  _ \|_ _|

@@ -14,12 +14,17 @@ def update_readme():
     with open("README.md", "r") as readme_file:
         existing_content = readme_file.read()
 
+    first_line = existing_content.readline()    
+
+    print(first_line)
+
     new_header = f"## Hello World! This is @Pejman 👋 I have been on GitHub for {years} years and {months} months!\n"
 
-    # remove the first line
-    existing_content = existing_content[1:]
-    print(existing_content)
-    updated_content = new_header + existing_content
+    # replace the first line
+
+    updated_content = existing_content.replace(first_line, new_header)
+
+    # updated_content = new_header + existing_content
 
     # Regex to find the existing header and replace it
     # updated_content = re.sub(r"## Hello World! This is @Pejman 👋 I have been on GitHub for \d+ years and \d+ months!\n", new_header, existing_content)

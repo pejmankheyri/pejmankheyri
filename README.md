@@ -1,13 +1,5 @@
 ## Hello World! This is @Pejman 👋 I have been on GitHub for 12 years and 1 months!
 
-```
-  ____       _                         ____________   ___   _    _    _     _  ___   _ _______   ______  ___
- |  _ \ ___ (_)_ __ ___   __ _ _ __   |__  / ____\ \ / / \ | |  / \  | |   | |/ / | | | ____\ \ / /  _ \|_ _|
- | |_) / _ \| | '_ ` _ \ / _` | '_ \    / /|  _|  \ V /|  \| | / _ \ | |   | ' /| |_| |  _|  \ V /| |_) || |
- |  __/  __/| | | | | | | (_| | | | |  / /_| |___  | | | |\  |/ ___ \| |___| . \|  _  | |___  | | |  _ < | |
- |_|   \___|/ |_| |_| |_|\__,_|_| |_| /____|_____| |_| |_| \_/_/   \_\_____|_|\_\_| |_|_____| |_| |_| \_\___|
-          |__/
-```
 
 As a professional full-stack web developer with over 10 years of experience, I excel in both frontend and backend development. My expertise spans Laravel, PHP, MySQL, Vue.js, Nuxt.js, JavaScript, Python, RESTful APIs, and Tailwind CSS. I have a proven track record of building robust web applications and delivering high-quality code. My skills in frontend technologies ensure seamless user experiences, while my backend proficiency guarantees secure, scalable, and efficient systems.
 

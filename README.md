@@ -1,4 +1,4 @@
-## Hello World! 👋 since 12 years and 5 months!
+## Hello World! 👋 since 12 years and 6 months!
 
 
 As a professional full-stack web developer with over 10 years of experience, I excel in both frontend and backend development. My expertise spans Laravel, PHP, MySQL, Vue.js, Nuxt.js, JavaScript, Python, RESTful APIs, and Tailwind CSS. I have a proven track record of building robust web applications and delivering high-quality code. My skills in frontend technologies ensure seamless user experiences, while my backend proficiency guarantees secure, scalable, and efficient systems.
